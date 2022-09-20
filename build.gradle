@@ -134,8 +134,8 @@ publishing {
         }
       }
       pom {
-        name = 'Ar4k Template Library'
-        description = 'Ar4k Template Library by Rossonet.'
+        name = "${project.name}"
+        description = "${project.description}"
         url = 'https://app.rossonet.net/'
         licenses {
           license {
