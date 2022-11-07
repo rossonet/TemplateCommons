@@ -11,7 +11,7 @@ buildscript {
 }
 
 description = "library template project"
-group = 'org.rossonet.commons'
+group = 'net.rossonet.commons'
 version = '0.0.1'
 
 ext {
